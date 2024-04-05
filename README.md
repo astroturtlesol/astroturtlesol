@@ -1,6 +1,6 @@
 
 
-![AstroTurtleLogo](https://astroturtle.xyz/assets/images/logo-black.png)
+![AstroTurtleLogo](https://astroturtle.xyz/assets/images/logo-orange.png)
 
 # AstroTurtle
 
